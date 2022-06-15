@@ -324,7 +324,16 @@ section {
   width: 0%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 0%;
+  width: 10%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .bootstrap {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .django {
+  width: 10%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .jquery {
+  width: 10%;
 }
 
 .stat-title {
